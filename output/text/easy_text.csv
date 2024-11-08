@@ -4,19 +4,21 @@ Restaurant
 6332
 Business
 Drive
-suite
+Suite
 528
 Palo
-Alto Calitornia
+Alto California
 94301
 575-1628095
-Fri 04/07/2017
-11:36 AM
+Fri
+04/07/2017
+11;36
+AM
 Merchant
 ID:
 9hqjxvufdr
 Terminal
-ID:
+ID;
 11111
 Transaction
 ID:
@@ -25,27 +27,26 @@ Type:
 CREDIT
 PURCHASE
 Number
-;
 XXXXXXXXXXXXO041
-Entry Mode:
+Entry_Mode=
+'
 Swiped
 Card Type:
 DISCOVER
 Response:
 APPROVED
 Approval
-Code :
+Code:
 819543
 Sub Total
 USDS
 25.23
+Tip:
 3.78
 Total
 USDS
 29.01
 Thanks
-for
-supporting
+for supporting
 local business !
-THANK  YOU
-Tip:
+THANK   YOU
